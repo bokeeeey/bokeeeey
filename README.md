@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/><img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 ### 🚙 Blog
-<a href="https://boky.tistory.com/" target=_blank><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://boky.tistory.com/"/></a>
+<a href="https://boky.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://boky.tistory.com/"/></a>
 
 ### 🥷 Actibity
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokeeeey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
