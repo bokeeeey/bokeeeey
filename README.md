@@ -9,6 +9,6 @@
 ### 🚙 Blog
 <a href="https://boky.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://boky.tistory.com/"/></a>
 
-### 🥷 Stats
+### 🥷 Actibity
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokeeeey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokeeeey&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
